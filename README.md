@@ -28,3 +28,8 @@
 - Creating the Dashboard Layout
 - Inserting Slicers and Connecting Charts
 - Customizing Charts and Dashboard Design
+
+## Dashboard
+
+  <img width="1372" height="693" alt="Screenshot 2026-01-30 092720" src="https://github.com/user-attachments/assets/f8c4af5a-4cef-4e95-bc1a-5b12af5954c5" />
+
