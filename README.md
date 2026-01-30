@@ -1,2 +1,4 @@
-# DATA-ANALYSIS-DASHBOARD
-I developed a comprehensive project in EXCEL, creating multiple dashboards and tables to analyse the data . this process involves severals stages including data preprocessing, data cleaning, and data visulization.
+# Online-Store-Data-Analysis(Intractive dashboard creation using MS excel)
+## project objectives
+ the store wants to create an anual sales report for the analyzation of the performance of sales and all other components.
+ the owner of the store can understand their customers and grow more sales in next year.
